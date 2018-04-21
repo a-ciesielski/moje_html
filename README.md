@@ -1,10 +1,4 @@
-# moje_html
+This journey begins one late Monday afternoon in Antwerp.
+Our team desperately needs coffee, but none of us dare open the office door.
 
-*bold phrase* & **char**acter**s**
-
-[%header,format=csv]
-|===
-Artist,Track,Genre
-Baauer,Harlem Shake,Hip Hop
-The Lumineers,Ho Hey,Folk Rock
-|===
+To leave means code dismemberment and certain death.
