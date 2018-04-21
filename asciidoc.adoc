@@ -1,1 +1,1 @@
-# strona z asciidoc
+Type the word [.userinput]#asciidoc# into the search bar.
