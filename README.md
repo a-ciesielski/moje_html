@@ -1,4 +1,2 @@
 # Moja pierwsza strona
-
-WARNING: Wolpertingers are known to nest in server racks.   
-Enter at your own risk.
+The text pass:[<u>underline me</u>] is underlined.
