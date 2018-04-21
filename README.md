@@ -1,2 +1,1 @@
-The text pass:[<u>underline me</u>] is underlined.
-
+[<u>underline me</u>]
