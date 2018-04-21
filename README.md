@@ -6,3 +6,11 @@ To leave means code dismemberment and certain death.
 * Edgar Allen Poe
 * Sheri S. Tepper
 * Bill Bryson
+
+
+.Possible DefOps manual locations
+* West wood maze
+** Maze heart
+*** Reflection pool
+** Secret exit
+* Untracked file in git repository
