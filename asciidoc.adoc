@@ -1,1 +1,1 @@
-Type the word [.userinput]#asciidoc# into the search bar.
+The text pass:[<u>underline me</u>] is underlined.
