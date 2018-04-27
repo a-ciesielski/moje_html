@@ -1,3 +1,9 @@
 # ciekawostki
 
 https://github.com/a-ciesielski/moje_html/edit/master/asciidoc.adoc[funkcje]
+
+|===
+|Funkcje| wzór
+| Liniowa | y=ax+b
+|Kwadratowa|latexmath:[y=ax^{2} + bx +c]
+|
