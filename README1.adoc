@@ -1,0 +1,34 @@
+# Tablice matematyczne
+
+http://gist.asciidoctor.org/?github-AgataBultrowicz%2Fmatematykajestfajna%2F%2FREADME.adoc[Funkcje, wykresy]
+
+## Funkcje
+
+|===
+| Funkcja	|  Wzór ogólny
+| Liniowa	| y=ax+b
+| Kwadratowa | latexmath:[y = ax^{2} + bx + c]
+| Wymierna | latexmath:[\frac{1}{x}]
+|===
+
+## Granice
+
+latexmath:[\lim_{x\to\infty} f(x)]
+
+latexmath:[\lim_{n\to\infty} \left(1+\frac{1}{n}\right)^{n}=e]
+
+## Sumy, iloczyny
+
+latexmath:[\sum_{n=1}^{k} n]
+
+latexmath:[\sum_{\substack{i > 1 \\ j > i}}]
+
+latexmath:[\prod_{n=0}^{k} n=0]
+
+latexmath:[\bigcup_{s=1}^{n} A_s =A_{1}\cup A_{2}\cup \ldots \cup A_{n}]
+
+## Wykresy
+
+
+image::HporT2x.gif[]
+image::Bessel_functions_Jn.png[]
