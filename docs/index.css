@@ -16,7 +16,7 @@ border-radius: 15px;
 }
 .one {
 grid-area: 1 / 1 / 4 / 4;
-background-image: url(https://unsplash.com/photos/1R63taCoSnM);
+background-image: url(https://www.stockvault.net/data/2016/04/19/194120/preview16.jpg);
       background-size: cover;
 }
 .two {
@@ -34,24 +34,3 @@ grid-area: 5 / 3 / 7 / 6;
 background-image: url(https://foter.com/photos/397/number-count-decade-school-slide-rule-mathematics.jpg);
         background-size: cover;
 
-}
-.five {
-grid-area: 4 / 3 / 5 / 4;
-background-image: url(https://foter.com/photos/394/watering-nature-water.jpg);
-        background-size: cover;
-   
-}
-.main > div {
-display: flex;
-flex-direction: column;
-justify-content: center;
-text-align: center;
-}
-@media screen and (max-width: 600px) {
-.main {
-display: block;
-}
-.main > div {
-height: 200px;
-}
-}
